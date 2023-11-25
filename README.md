@@ -1,5 +1,8 @@
 # AASR_e5
-* 根据[原教程]获取应用id、机密、refresh_token（自己复制保存，注意区分id机密，别弄混了）
+
+参考 https://51.ruyo.net/15646.html
+
+* 获取应用id、机密、refresh_token（自己复制保存，注意区分id机密，别弄混了）
    
   然后在线编辑你项目里的1.txt，将整个refresh_token覆盖粘贴进去（里面是我的数据，先删掉或者覆盖掉）。（千万不要改1.py）
   
